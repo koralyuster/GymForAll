@@ -310,11 +310,11 @@ padding-left: 21px;
     width: 16px; height: 16px;
     outline: none; border: 0;
     text-indent: -9999px;
-    background: url(http://localhost:8888/https:/koralyuster.github.io/GymForAll/wp-content/plugins/custom-css-js/assets/images/button-close.png) left top no-repeat;
+    background: url(https://koralyuster.github.io/GymForAll/wp-content/plugins/custom-css-js/assets/images/button-close.png) left top no-repeat;
 }
 
 .wplnst-elist tr td.wplnst-elist-close .wplnst-elist-close-link:hover {
-    background: url(http://localhost:8888/https:/koralyuster.github.io/GymForAll/wp-content/plugins/custom-css-js/assets/images/button-close-hover.png) left top no-repeat;
+    background: url(https://koralyuster.github.io/GymForAll/wp-content/plugins/custom-css-js/assets/images/button-close-hover.png) left top no-repeat;
 }
 
 .wplnst-elist tr td.wplnst-elist-split {

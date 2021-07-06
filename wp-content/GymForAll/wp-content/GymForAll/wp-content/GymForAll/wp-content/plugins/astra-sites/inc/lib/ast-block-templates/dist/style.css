@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'icomoon';
-	src: url('http://localhost:8888/https:/koralyuster.github.io/GymForAll/wp-content/plugins/astra-sites/inc/lib/ast-block-templates/dist/fonts/ast-block-templates.eot?9i8jex');
-	src: url('http://localhost:8888/https:/koralyuster.github.io/GymForAll/wp-content/plugins/astra-sites/inc/lib/ast-block-templates/dist/fonts/ast-block-templates.eot?9i8jex#iefix')
+	src: url('https://koralyuster.github.io/GymForAll/wp-content/plugins/astra-sites/inc/lib/ast-block-templates/dist/fonts/ast-block-templates.eot?9i8jex');
+	src: url('https://koralyuster.github.io/GymForAll/wp-content/plugins/astra-sites/inc/lib/ast-block-templates/dist/fonts/ast-block-templates.eot?9i8jex#iefix')
 			format('embedded-opentype'),
-		url('http://localhost:8888/https:/koralyuster.github.io/GymForAll/wp-content/plugins/astra-sites/inc/lib/ast-block-templates/dist/fonts/ast-block-templates.ttf?9i8jex') format('truetype'),
-		url('http://localhost:8888/https:/koralyuster.github.io/GymForAll/wp-content/plugins/astra-sites/inc/lib/ast-block-templates/dist/fonts/ast-block-templates.woff?9i8jex') format('woff'),
-		url('http://localhost:8888/https:/koralyuster.github.io/GymForAll/wp-content/plugins/astra-sites/inc/lib/ast-block-templates/dist/fonts/ast-block-templates.svg?9i8jex#icomoon') format('svg');
+		url('https://koralyuster.github.io/GymForAll/wp-content/plugins/astra-sites/inc/lib/ast-block-templates/dist/fonts/ast-block-templates.ttf?9i8jex') format('truetype'),
+		url('https://koralyuster.github.io/GymForAll/wp-content/plugins/astra-sites/inc/lib/ast-block-templates/dist/fonts/ast-block-templates.woff?9i8jex') format('woff'),
+		url('https://koralyuster.github.io/GymForAll/wp-content/plugins/astra-sites/inc/lib/ast-block-templates/dist/fonts/ast-block-templates.svg?9i8jex#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
